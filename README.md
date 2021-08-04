@@ -1,4 +1,4 @@
-#Visual sorting
+# Visual sorting
 
 A python tkinter sorting visualiser.
 
