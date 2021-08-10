@@ -7,7 +7,6 @@ from sorting_algorithms.quicksort import quick_sort
 from sorting_algorithms.selectionSort import selectionSort
 from sorting_algorithms.insertionSort import insertionSort
 from sorting_algorithms.shellsort import shellSort
-from sorting_algorithms.bubblesort import bubble_sort
 
 root = Tk()
 root.title("Sorting")
