@@ -1,12 +1,13 @@
 import random
 from tkinter import *
 from tkinter import ttk
-from bubblesort import bubble_sort
-from mergesort import mergeSort
-from quicksort import quick_sort
-from selectionSort import selectionSort
-from insertionSort import insertionSort
-from shellsort import shellSort
+from sorting_algorithms.bubblesort import bubble_sort
+from sorting_algorithms.mergesort import mergeSort
+from sorting_algorithms.quicksort import quick_sort
+from sorting_algorithms.selectionSort import selectionSort
+from sorting_algorithms.insertionSort import insertionSort
+from sorting_algorithms.shellsort import shellSort
+from sorting_algorithms.bubblesort import bubble_sort
 
 root = Tk()
 root.title("Sorting")
